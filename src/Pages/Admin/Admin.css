@@ -1,0 +1,117 @@
+#admintable #table.customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+  }
+
+.admin{
+  background: orange;
+}
+
+.admin .admintext{
+  font-size: 35px;
+  text-decoration: underline;
+  margin-left: 90%;
+  width: 100%;
+}
+
+
+#admintable{
+    margin-left: 10%;
+    width: 200%;
+    margin-top: 13%;
+
+}
+  #admintable #customers td, #customers th {
+    border: 3px solid #000000;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #admintable #customers tr:nth-child(even){
+    background-color: #000000;
+    color: white;
+}
+  
+  #admintable #customers tr:hover {background-color: #f6ff00;}
+  
+  #admintable #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+table{
+    width: 100%;
+}
+
+
+.btncreate{
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-top: 13%;
+    margin-left: 10%;
+}
+
+.btnupdate{
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 10%;
+}
+
+.btndelete{
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 20%;
+  
+}
+#delbtn{
+  display: inline-block;
+  border-radius: 3px;
+  background-color: red;
+  border: white solid;
+  color: #FFFFFF;
+  font-size: 13px;
+  padding: 20px;
+  width: 80px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+  
+}
+
