@@ -6,7 +6,7 @@ import './Dashboard.css';
 
 const Dashboard = () => {
   return (
-   
+    <body>
     <div class="dashboard">
        <Sidebar>
         <div>
@@ -42,6 +42,7 @@ const Dashboard = () => {
         </Sidebar>
         
     </div>
+    </body>
   )
 }
 

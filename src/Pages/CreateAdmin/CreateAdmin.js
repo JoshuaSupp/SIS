@@ -41,7 +41,7 @@ const CreateAdmin = () => {
   }
 
   return (
-    <div>
+    <div id='cadmin'>
     <Sidebar>
     <div class="login-box">
   <h2>Create Admin</h2>

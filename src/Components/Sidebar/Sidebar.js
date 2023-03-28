@@ -106,7 +106,7 @@ const Sidebar = ({children}) => {
         
     
   return (
- 
+   
     <div className='container'>
             <div style={{width: isOpen ? "180px" : "50px"}} className='sidebar'>
               <div className='topsection'>
@@ -126,6 +126,7 @@ const Sidebar = ({children}) => {
             </div> 
             <main>{children}</main>
     </div>
+    
   )
 }
 

@@ -30,7 +30,7 @@ const ANAccounts = () => {
   
 
   return (
-   
+    <div id='studentprof'>
     <div id='stlogin' >
          <Sidebar>
          <h2 id="stprofile"style={{marginBottom:'6%', textAlign:'center', width:'100%', marginLeft:'85%'}}>AN Student Profile Account Details</h2>
@@ -75,7 +75,7 @@ const ANAccounts = () => {
   
   </Sidebar>
     </div>
-
+  </div>
   )
 }
 

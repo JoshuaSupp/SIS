@@ -34,7 +34,7 @@ const KXAccounts = () => {
 
     <div id='studentprof'>
         <Sidebar>
-    <h2 id="stprofile"style={{marginBottom:'6%', textAlign:'center', width:'100%', marginLeft:'90%'}}>Student Profile Account Details</h2>
+    <h2 id="stprofile"style={{marginBottom:'6%', textAlign:'center', width:'100%', marginLeft:'85%'}}>KX Student Profile Account Details</h2>
     
     <div id='stlogin'>      
 <h1>KX1 Student Accounts</h1>

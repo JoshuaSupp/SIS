@@ -4,7 +4,10 @@
   }
 
 .admin{
-  background: orange;
+  background-color: rgb(228, 225, 219, 1);
+  margin: auto 0px;
+  width: 1360px;
+  height: 1085px;
 }
 
 .admin .admintext{

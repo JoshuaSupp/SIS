@@ -1,9 +1,13 @@
-.dashboard{
-    background: orange;
+.dashboard  {
+  
+    margin: auto 0px;
+    width: fit-content;
+    height: 985px;
+    background-image: linear-gradient( rgb(230, 210, 200, 10), orange);
 }
 
 .dashboard .title{
-    margin-left: 40%;
+    margin-left: 35%;
     width: 100%;
     font-size: 40px;
     text-decoration: underline;
@@ -13,7 +17,7 @@
     width: 100%;
     font-size: 30px;
     margin-top: 5%;
-    margin-left: 50%;
+    margin-left: 48%;
     text-decoration: underline;
 }
 
@@ -35,7 +39,7 @@
   }
  
 .dashboard .kxtext{
-    margin-left: 20%;
+    margin-left: 17%;
 }
  
 .dashboard .antext{

@@ -183,6 +183,8 @@ const KXRegistry = () => {
       <option  value="A*">A*</option>
     </select>
     </td>
+
+    
     <td><a href='/images/Certificate.pdf'><img src='./images/plusicon.png' id='plus' width='50px' height='50px' alt='plus'/></a></td>
  <td>  <input id="save" type="submit" name="save" value="Save" /> </td> 
     <td><button id="delbtn"onClick={() => deleteContact(item.id)} >Delete</button></td>

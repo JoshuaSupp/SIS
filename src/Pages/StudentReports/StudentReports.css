@@ -5,10 +5,14 @@
     margin-left: 250%;
     text-decoration: underline;
     width: 100%;
+   
 }
 
 #studentreport{
-  position: fixed;
+  background-color: rgb(228, 225, 219, 1);
+  margin: auto 0px;
+  width: 1440px;
+  height: 985px;
 }
 
 

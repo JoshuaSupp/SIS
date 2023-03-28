@@ -122,3 +122,10 @@ select option[value = 'A*']{
     background-color: crimson;
     transition: 0.1ms;
   }
+
+  .anregistry{
+    background-color: rgb(228, 225, 219, 1);
+    margin: auto 0px;
+    width: fit-content;
+    height: 1085px;
+  }

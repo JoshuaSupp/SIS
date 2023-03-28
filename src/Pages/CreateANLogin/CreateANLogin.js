@@ -45,7 +45,7 @@ const CreateANLogin = () => {
     <div>
         <Sidebar>
     <div class="login-box">
-  <h2>Create KX Account</h2>
+  <h2>Create AN Account</h2>
   <form  onSubmit={handleSubmit}>
     <div class="user-box">
       <input type="text"

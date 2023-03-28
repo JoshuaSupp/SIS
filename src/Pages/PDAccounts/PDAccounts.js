@@ -31,7 +31,7 @@ const PDAccounts = () => {
 
 
   return (
-    <div>
+    <div id='studentprof'>
         <div id='stlogin' >
          <Sidebar>
          <h2 id="stprofile"style={{marginBottom:'6%', textAlign:'center', width:'100%', marginLeft:'85%'}}>PD Student Profile Account Details</h2>

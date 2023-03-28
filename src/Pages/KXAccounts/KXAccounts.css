@@ -1,5 +1,9 @@
 #studentprof{
     position: absolute;
+    background-color: rgb(228, 225, 219, 1);
+    margin: auto 0px;
+    width: 1290px;
+    height: 1085px;
 }
 #stprofile{
     font-size: 35px;
